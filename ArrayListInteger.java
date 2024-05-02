@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class ExemploArrayList {
+public class ExemploInteger {
 	public static void main(String[] args) {
 		ArrayList<Integer> idade = new ArrayList<Integer>();
 
